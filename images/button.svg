@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+    <symbol id="btn" viewBox="0 0 200 200">
+        <circle cx="100" cy="100" r="80" fill="#FF0000"/>
+        <text x="100" y="160" font-size="180" fill="#FFFFFF" text-anchor="middle">&#215;</text>
+    </symbol>
+</svg>
